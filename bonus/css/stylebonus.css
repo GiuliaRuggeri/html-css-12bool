@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+}
+
+.box-red{
+    background-color: #B81818;
+    height: 3em;
+}
+
+.box-black{
+    background-color: #272727;
+}
+
+.box-brown{
+    background-color: #611F13;
+}
+
+.box-skin{
+    background-color: #E9B989;
+}
+
+.box{
+    min-height: 2em;
+}
+
+/* * UTILITIES * */
+
+/* PADDING */
+
+.padding-0-5{
+    padding:0.5em;
+}
+
+/* BORDER */
+
+.border{
+    border: solid 1px white;
+}
+
+.border-transp{
+    border: solid 1px transparent;
+}
