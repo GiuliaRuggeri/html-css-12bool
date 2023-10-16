@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+
+.box{
+    background-color: #006CFA;
+}
+
+.box-green{
+    background-color: #00E165;
+    border: none;
+}
+
+/* * UTILITIES * */
+
+/* PADDING */
+
+.padding-0-5{
+    padding:0.5em;
+}
+
+/* BORDER */
+
+.border{
+    border: solid 1px white;
+}
+
+.border-transp{
+    border: solid 1px transparent;
+}
